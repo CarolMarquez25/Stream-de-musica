@@ -1,10 +1,10 @@
 # Análisis de música en plataformas de stream
 ---
  ## **Carol Márquez**
-  24/01/2024
+  24/01/2025
 ---
 Este proyecto en Power BI ofrece un análisis integral y dinámico del rendimiento de canciones y artistas en las principales plataformas de streaming. 
-Visualiza tendencias, compara estadísticas entre Spotify, YouTube y TikTok, y descubre los artistas y canciones que están dominando las listas.
+Visualiza tendencias, compara estadísticas entre Spotify, YouTube y TikTok, y descubre los artistas y canciones que están dominando las listas durante el primer semestre del 2024.
 ## Variables:
 - Nombre de la pista : Nombre de la canción.
 - Nombre del álbum : Nombre del álbum al que pertenece la canción.
@@ -47,6 +47,7 @@ Visualiza tendencias, compara estadísticas entre Spotify, YouTube y TikTok, y d
 5. Observar y comparar el rendimiento de los artistas.
 
 6. Identificar qué tipo de contenido funciona mejor y cómo se pueden mejorar futuras producciones para alcanzar un mayor público.
+   
 
 ![image](https://github.com/user-attachments/assets/b21563eb-772a-474a-aa2b-0a368d7f625a)
 
